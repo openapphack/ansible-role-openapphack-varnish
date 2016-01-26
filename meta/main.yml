@@ -1,0 +1,19 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: openapphack
+  description: Varnish for Linux
+  company: ""
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - precise
+    - trusty
+  - name: Debian
+    versions:
+    - all
+  categories:
+    - web
